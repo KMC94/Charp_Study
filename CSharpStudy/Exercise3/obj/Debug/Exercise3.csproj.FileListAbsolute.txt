@@ -1,0 +1,6 @@
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\bin\Debug\Exercise3.exe.config
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\bin\Debug\Exercise3.exe
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\bin\Debug\Exercise3.pdb
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\obj\Debug\Exercise3.exe
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\obj\Debug\Exercise3.pdb
