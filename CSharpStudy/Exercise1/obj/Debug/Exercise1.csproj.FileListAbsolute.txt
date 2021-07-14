@@ -1,0 +1,7 @@
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise1\bin\Debug\Exercise1.exe.config
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise1\bin\Debug\Exercise1.exe
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise1\bin\Debug\Exercise1.pdb
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise1\obj\Debug\Exercise1.exe
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise1\obj\Debug\Exercise1.pdb
