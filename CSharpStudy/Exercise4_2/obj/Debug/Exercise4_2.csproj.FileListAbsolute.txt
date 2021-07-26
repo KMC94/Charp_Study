@@ -1,0 +1,11 @@
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\obj\Debug\Exercise4_2.csproj.CoreCompileInputs.cache
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\bin\Debug\Exercise4_2.exe.config
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\bin\Debug\Exercise4_2.exe
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\bin\Debug\Exercise4_2.pdb
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\bin\Debug\Exercise4_1.exe
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\bin\Debug\Exercise4_1.pdb
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\bin\Debug\Exercise4_1.exe.config
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\obj\Debug\Exercise4_2.csprojAssemblyReference.cache
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\obj\Debug\Exercise4_2.csproj.CopyComplete
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\obj\Debug\Exercise4_2.exe
+D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise4_2\obj\Debug\Exercise4_2.pdb
