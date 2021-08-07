@@ -5,3 +5,6 @@ D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\obj\Debug\E
 D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\obj\Debug\Exercise3.exe
 D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\obj\Debug\Exercise3.pdb
 D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise3\obj\Debug\Exercise3.pdb

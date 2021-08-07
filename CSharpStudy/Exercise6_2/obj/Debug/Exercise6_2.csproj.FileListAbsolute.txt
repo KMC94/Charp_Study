@@ -5,3 +5,10 @@ D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise6_2\obj\Debug
 D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise6_2\obj\Debug\Exercise6_2.csproj.CoreCompileInputs.cache
 D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise6_2\obj\Debug\Exercise6_2.exe
 D:\C#\practical-csharp-master\CSharpStudyU0712\CSharpStudy\Exercise6_2\obj\Debug\Exercise6_2.pdb
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise6_2\bin\Debug\Exercise6_2.exe.config
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise6_2\bin\Debug\Exercise6_2.exe
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise6_2\bin\Debug\Exercise6_2.pdb
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise6_2\obj\Debug\Exercise6_2.csprojAssemblyReference.cache
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise6_2\obj\Debug\Exercise6_2.csproj.CoreCompileInputs.cache
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise6_2\obj\Debug\Exercise6_2.exe
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise6_2\obj\Debug\Exercise6_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise7_1\bin\Debug\Exercise7_1.exe.config
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise7_1\bin\Debug\Exercise7_1.exe
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise7_1\bin\Debug\Exercise7_1.pdb
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise7_1\obj\Debug\Exercise7_1.csprojAssemblyReference.cache
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise7_1\obj\Debug\Exercise7_1.csproj.CoreCompileInputs.cache
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise7_1\obj\Debug\Exercise7_1.exe
+C:\Users\money\Desktop\여러가지폴더\C#\Practical Csharp\CSharpStudy\Exercise7_1\obj\Debug\Exercise7_1.pdb
